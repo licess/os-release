@@ -1,0 +1,7 @@
+PRETTY_NAME="Deepin 20"
+NAME="Deepin"
+VERSION_ID="20"
+VERSION="20"
+ID=Deepin
+HOME_URL="https://www.deepin.org/"
+BUG_REPORT_URL="https://bbs.deepin.org/"
